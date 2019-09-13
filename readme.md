@@ -21,6 +21,8 @@ To run the Matlab code, Matlab will need to be installed. For this code, we used
 
 This codebase is based on Python 2.7, and the pip packages used are shown in the requirements.txt file. To run this on AWS, use AMI ami-52bb0c32, and a p2.xlarge instance. 
 
+Now pytorch is supported (just main function), based on python3.
+
 ### Installing
 
 1. Copy the github repo to your computer, and install the pip requirements.
